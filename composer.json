@@ -1,0 +1,11 @@
+{
+    "name": "uppercode/funky",
+    "description": "Flexible ERP Framework",
+    "authors": [
+        {
+            "name": "Dmitry",
+            "email": "deathburger777@gmail.com"
+        }
+    ],
+    "require": {}
+}
